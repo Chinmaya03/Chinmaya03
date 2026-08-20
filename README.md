@@ -10,13 +10,13 @@ I am a data-driven professional focused on transforming complex datasets into ac
 
 ### 🚀 Featured Projects
 
-*   **[Student Digital Well-being Dashboard (Power BI)]([Power BI Repository](https://github.com/Chinmaya03/powerbi-student-digital-wellbeing)):** 
+*   **[Student Digital Well-being Dashboard (Power BI)](https://github.com/Chinmaya03/powerbi-student-digital-wellbeing)):** 
     An interactive Power BI application analyzing behavioral addiction and academic outcomes. Built using advanced DAX measures, a custom Star Schema, bookmark-driven navigation, and CRM-style drill-through student profiles.
 
-*   **[Customer Data Analysis & RFM Segmentation (Python)]([Python Analysis Repository](https://github.com/Chinmaya03/Customer_Data_Analyis_using_python)):** 
+*   **[Customer Data Analysis & RFM Segmentation (Python)](https://github.com/Chinmaya03/Customer_Data_Analyis_using_python)):** 
     A programmatic data wrangling project utilizing Pandas to merge customer master data with transactional records. Engineered a custom RFM (Recency, Frequency, Monetary) scoring model to categorize customers into 7 distinct behavioral segments (e.g., Champions, Loyal Customers, At Risk).
 
-*   **[Customer Insights: A Statistical Investigation (Python)]([Statistical Analysis Repository](https://github.com/Chinmaya03/Customer-Insights-A-Statistical-Investigation-)):** 
+*   **[Customer Insights: A Statistical Investigation (Python)](https://github.com/Chinmaya03/Customer-Insights-A-Statistical-Investigation-)):** 
     An Exploratory Data Analysis (EDA) and statistical testing project. Leveraged Matplotlib and Seaborn to visualize demographic age distributions, spending habits, and revenue contributions across customer segments, backed by SciPy for statistical rigor.
 
 ### 🌱 Currently Learning & Expanding
@@ -26,4 +26,4 @@ I am a continuous learner, currently upskilling to integrate artificial intellig
 
 ### 📫 Let's Connect!
 *   **LinkedIn:** [My Linked Profile](https://www.linkedin.com/in/chinmayapanigrahii/)
-*   **Email:** [panigrahichinmaya96@gmail.com]
+*   **Email:** [panigrahichinmaya96@gmail.com](mailto:panigrahichinmaya96@gmail.com)
