@@ -1,12 +1,12 @@
 # Hi there, I'm Chinmaya 👋
 
-I am a data-driven professional focused on transforming complex datasets into actionable business insights. With a strong foundation in statistical analysis and exploratory data analysis (EDA), I specialize in building end-to-end data pipelines—from data cleaning and statistical testing in Python to developing interactive, highly visual dashboards in Power BI.
+I am an entry-level Data Analyst focused on transforming raw data into meaningful business insights through data cleaning, analysis, visualization, and dashboard development. I work with Power BI, SQL, Excel, Python, Pandas, NumPy, and Tableau, and I am continuously strengthening my skills through hands-on analytics projects.
 
 ### 🛠️ Tech Stack & Skills
-*   **Data Visualization & BI:** Power BI, DAX, Advanced Excel, Dashboard UI/UX
+*   **Data Visualization & BI:** Power BI, DAX, Excel, Dashboard UI/UX
 *   **Programming & Data Manipulation:** Python, Pandas, NumPy, SQL
 *   **Data Analysis & Theory:** Statistics, Exploratory Data Analysis (EDA), Relational Data Modeling, Hypothesis Testing
-*   **Core Competencies:** Business Communication, Problem Solving, Cross-functional Collaboration
+*   **Core Competencies:** Business Communication, Problem Solving
 
 ### 🚀 Featured Projects
 
@@ -22,7 +22,7 @@ I am a data-driven professional focused on transforming complex datasets into ac
 ### 🌱 Currently Learning & Expanding
 I am a continuous learner, currently upskilling to integrate artificial intelligence and new visualization software into my analytics workflow:
 *   **Tableau:** Mastering calculated fields, dashboard design, and advanced visual analytics.
-*   **Data Analytics with GenAI:** Exploring how to leverage Generative AI models to automate data preparation, write efficient code, and enhance predictive insights.
+*   **Data Analytics with GenAI:** Exploring the use of Generative AI for data preparation, coding assistance, analytical workflows, and reporting.
 
 ### 📫 Let's Connect!
 *   **LinkedIn:** [My Linked Profile](https://www.linkedin.com/in/chinmayapanigrahii/)
